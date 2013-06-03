@@ -14,4 +14,7 @@ ede-projects.el
 custom.el
 places
 .smex-items
-savefiles/
+savefile/
+/prelude-modules.el
+projectile-bookmarks.eld
+session*
